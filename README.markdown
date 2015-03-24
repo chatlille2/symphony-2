@@ -7,7 +7,7 @@
 - [Release notes](http://getsymphony.com/download/releases/version/2.6.1/)
 - [Github repository](https://github.com/symphonycms/symphony-2/tree/2.6.1)
 
-## Contents
+## Contents fn1
 
 * [Overview](#overview)
 * [Server requirements](#server-requirements)
